@@ -1,0 +1,14 @@
+C:\Users\cassio.costa\source\repos\MongoExemplo\MongoExemplo\bin\Debug\netcoreapp2.2\MongoExemplo.deps.json
+C:\Users\cassio.costa\source\repos\MongoExemplo\MongoExemplo\bin\Debug\netcoreapp2.2\MongoExemplo.runtimeconfig.json
+C:\Users\cassio.costa\source\repos\MongoExemplo\MongoExemplo\bin\Debug\netcoreapp2.2\MongoExemplo.runtimeconfig.dev.json
+C:\Users\cassio.costa\source\repos\MongoExemplo\MongoExemplo\bin\Debug\netcoreapp2.2\MongoExemplo.dll
+C:\Users\cassio.costa\source\repos\MongoExemplo\MongoExemplo\obj\Debug\netcoreapp2.2\MongoExemplo.csprojAssemblyReference.cache
+C:\Users\cassio.costa\source\repos\MongoExemplo\MongoExemplo\obj\Debug\netcoreapp2.2\MongoExemplo.csproj.CoreCompileInputs.cache
+C:\Users\cassio.costa\source\repos\MongoExemplo\MongoExemplo\obj\Debug\netcoreapp2.2\MongoExemplo.RazorAssemblyInfo.cache
+C:\Users\cassio.costa\source\repos\MongoExemplo\MongoExemplo\obj\Debug\netcoreapp2.2\MongoExemplo.RazorAssemblyInfo.cs
+C:\Users\cassio.costa\source\repos\MongoExemplo\MongoExemplo\obj\Debug\netcoreapp2.2\MongoExemplo.AssemblyInfoInputs.cache
+C:\Users\cassio.costa\source\repos\MongoExemplo\MongoExemplo\obj\Debug\netcoreapp2.2\MongoExemplo.AssemblyInfo.cs
+C:\Users\cassio.costa\source\repos\MongoExemplo\MongoExemplo\obj\Debug\netcoreapp2.2\MongoExemplo.RazorTargetAssemblyInfo.cache
+C:\Users\cassio.costa\source\repos\MongoExemplo\MongoExemplo\bin\Debug\netcoreapp2.2\MongoExemplo.pdb
+C:\Users\cassio.costa\source\repos\MongoExemplo\MongoExemplo\obj\Debug\netcoreapp2.2\MongoExemplo.dll
+C:\Users\cassio.costa\source\repos\MongoExemplo\MongoExemplo\obj\Debug\netcoreapp2.2\MongoExemplo.pdb
